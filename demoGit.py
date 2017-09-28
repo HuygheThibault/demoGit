@@ -1,4 +1,4 @@
 print("huyghe")
 print("thibault")
 print("werkt het?")
-print("thibault")
+print("het werkt")
